@@ -22,7 +22,7 @@ Me caracterizo por la disciplina, aprendizaje rápido y enfoque en resultados.
 ---
 
 ## 📌 Proyectos (en progreso)
-- 🧮 Calculadora en Java
+
 - 🎨 Web tipo portafolio (HTML/CSS)
 - 🧾 Mini CRUD (consola + archivo)
 
