@@ -21,13 +21,6 @@ Me caracterizo por la disciplina, aprendizaje rápido y enfoque en resultados.
 
 ---
 
-## 📌 Proyectos (en progreso)
-
-- 🎨 Web tipo portafolio (HTML/CSS)
-- 🧾 Mini CRUD (consola + archivo)
-
----
-
 ## 📬 Contacto
 📧 **Correo:** marcosantoniosuarez57@gmail.com  
 📱 **WhatsApp:** +57 318 605 9553 (https://wa.me/573186059553)
