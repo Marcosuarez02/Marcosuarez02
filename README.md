@@ -1,18 +1,35 @@
-## hola marco  👋
+# 👋 ¡Hola! Soy Marco Suarez 🚀  
+🎓 Aprendiz SENA – ADSO | 💻 Desarrollo de Software | 🇨🇴 Colombia  
+✅ En etapa lectiva, listo para **patrocinio y contrato de aprendizaje**
 
+---
 
-## el LIENSO DE ADSO
-<!--
-**Marcosuarez02/Marcosuarez02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💡 Sobre mí
+Soy aprendiz del **SENA (ADSO)** y también estudio **Tecnología en Desarrollo de Sistemas Informáticos** (4to semestre).  
+Me caracterizo por la disciplina, aprendizaje rápido y enfoque en resultados.
 
-Here are some ideas to get you started:
+🎯 **Objetivo actual:** conseguir una empresa patrocinadora para aportar y crecer como desarrollador.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Tecnologías en aprendizaje
+- ☕ Java (POO, lógica, CRUD)
+- 🌐 HTML + CSS
+- 🗄️ MySQL
+- 🔧 Git & GitHub
+- 📝 Requisitos y documentación técnica
+
+---
+
+## 📌 Proyectos (en progreso)
+- 🧮 Calculadora en Java
+- 🎨 Web tipo portafolio (HTML/CSS)
+- 🧾 Mini CRUD (consola + archivo)
+
+---
+
+## 📬 Contacto
+📧 **Correo:** marcosantoniosuarez57@gmail.com  
+📱 **WhatsApp:** +57 318 605 9553 (https://wa.me/573186059553)
+
+⭐ Si tu empresa busca un aprendiz comprometido, ¡hablemos!
